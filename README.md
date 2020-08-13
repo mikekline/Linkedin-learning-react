@@ -1,3 +1,6 @@
+***Following along with React tutorial from Linkedin Learning****
+https://www.linkedin.com/learning/learning-react-js-5/getting-started-with-react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
